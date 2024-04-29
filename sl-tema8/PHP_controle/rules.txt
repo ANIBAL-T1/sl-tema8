@@ -1,0 +1,5 @@
+incendio=enviar_alerta_bombeiro, acionar_gerador, desligar_energia
+invasao=alerta_invasao, acionar_alarme
+falta_energia=ligar_gerador
+vazamento_gas=abrir_janela
+vazamento_agua=fechar_registro, enviar_alerta
